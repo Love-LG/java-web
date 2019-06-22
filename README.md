@@ -5,7 +5,6 @@
   
 * 项目结构
     ```
-    -org.jleopard.ihotel
         -config  项目基础配置，数据库信息配置
         -controller Controller类
         -dao 数据持久层
@@ -15,6 +14,7 @@
         -util 工具包
         -App 基础配置类
     ```
+  * 详细的文档说明在<code>doc</code>目录下
 ---
 ### 操作流程
 * [x] 首页
@@ -41,6 +41,10 @@
 
 
 * [x] 点击结账(流程结束)
+
+* [x] 本地输入localhost:8080/IHotel/login 进入商家后台登陆
+
+> 账号：aa@aa.aa    密码：123456
 
 
 ### 项目运行步骤
